@@ -15,3 +15,11 @@ and open the template in the editor.
         ?>
     </body>
 </html>
+
+<?php
+
+/**
+ * @param type $name Description
+ */
+
+?>
